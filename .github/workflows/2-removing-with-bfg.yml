@@ -1,3 +1,6 @@
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 name: Step 2, Removing a file with BFG Repo-Cleaner
 
 # This workflow updates from step 2 to step 3.
